@@ -1,6 +1,6 @@
 # File Renamer 
 
-This simple Python script renames all text files in a folder by appending the current date to the filenames. It's a small but useful project inspired from Day 1 of the "100 Days of Code: Python Bootcamp".
+This simple Python script renames all text files in a folder by appending the current date to the filenames. 
 
 ## 📁 How It Works
 
